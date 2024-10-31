@@ -1,0 +1,12 @@
+
+img, .p0, .p1 {
+	color : #FFFFFF;
+	line-height:0.9em;
+	font: 10pt verdana, arial, helvetica, sans-serif;
+	}
+
+A:hover.p1   {	
+	background : #FFFFA0;
+	color : #2020A0;
+	}
+

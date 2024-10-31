@@ -1,0 +1,39 @@
+0  §  News      § 14  §  http://www.javaside.com
+0  §  Langages  §  1  §  http://www.javaside.com/us/lang_1.html
+1  §  JAVA      §  1  §  http://www.javaside.com/us/java_f.html	§ ?applet liste
+2  §  Applets   §  0  
+3  §  tListe    §  3  §  http://www.javaside.com/j_tliste.html	§ ?This applet
+3  §  tMbutton  §  3  §  http://www.javaside.com/j_tmbutton.html	§ ?Tabs applet
+3  §  tFunction §  3  §  http://www.javaside.com/j_tfunction.html	§ ?draw y=f(x) 
+3  §  tCalDate  §  3  §  http://www.javaside.com/j_tcaldate.html	§ ?A calendar applet	
+3  §  tBBar     §  3  §  http://www.javaside.com/j_tbbar.html	§ ?A button bar
+3  §  tOnglet	§  3  §  http://www.javaside.com/j_tonglet.html	§ ?Other tabs applet	
+3  §  tChart	§  3  §  http://www.javaside.com/j_tchart.html	§ ?Draw a chart	
+3  §  Goban     §  3  §  http://www.javaside.com/j_goban.html	§ ?Multiplayer Go Game	
+3  §  tScroll	§  3  §  http://www.javaside.com/j_tscrol.html	§ ?Texte Scrolling
+3  §  tButton   §  3  §  http://www.javaside.com/j_butto.html	§ ?3D Button
+3  §  JVMine	§  3  §  http://www.javaside.com/j_jvmine.html	§ ?MineSweeper game
+2  §  Magazine  §  0  
+3  §  Java World § 3  §  http://www.javaworld.com  §  _top
+1  §  C / C++   §  0  §  http://www.javaside.com/us/cpp_f.html
+2  §  BC++5 Faq §  3  §  http://www.mdex.net/~kentr/bc50faq.htm  §  _top
+2  §  Sources   §  3  §  http://www.pfdpf.state.oh.us/msawczyn/files/owlfiles.htm  §  _top
+2  §  FAQ WinDev § 3  §  http://www.r2m.com/win-developer-FAQ/  §  _top
+0  §  FreeWares  § 0  §  http://www.javaside.com/us/prg_1.html
+1  §  AnShare    § 3  §  http://www.anshare.com	§ ?French ShareWare site
+1  §  Windows 16 § 0  §  http://www.javaside.com/us/prg_1.html
+2  §  RInstall   § 3  §  http://www.javaside.com/us/rbl_rins.html	§ ?A freeWare to build your install script
+2  §  PMDI       § 3  §  http://www.javaside.com/us/rbl_pmdi.html
+1  §  Windows 32 § 0  §  http://www.javaside.com/us/prg_1.html
+2  §  RInstall   § 3  §  http://www.javaside.com/us/rbl_rins.html	§ ?A freeWare to build your install script
+0  §  Documentation § 0  §  http://www.javaside.com/us/net_1.html
+1  §  Presse     § 0
+2  §  01 Info    § 3  §  http://www.01-informatique.com/  §  _top
+2  §  LMI        § 3  §  http://www.lmi.fr/  		  §  _top
+2  §  Informatique § 3  §  http://techweb.cmp.com/ifm     §  _top
+1  §  Manuels     § 0
+2  §  UNGI        § 3  §  http://www.imaginet.fr/ime      §  _top
+2  §  Man HTML    § 3  §  http://www.imag.fr/Multimedia/miroirs/manuelhtml/manuelhtml.html  §  _top
+2  §  HTML Goodies § 3  §  http://www.htmlgoodies.com	  §  _top
+0  §  GuestBook    § 15  §  http://services.hit-parade.com/hp-livredor.asp?site=a1361	§ ?see my guestbook
+0  §  Suite...     § 9  §  ./txt/tliste2.txt              §  _reload	§ ?Next...
